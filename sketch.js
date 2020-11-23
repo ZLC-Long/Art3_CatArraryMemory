@@ -12,7 +12,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   for (let i = 0; i < 6; i++) {
   
-    let r = random(75, 150);
+    let r = random(85, 165);
       let x = random(width-r);
     let y = random(height-r);
     // let cats = random(Cats);
